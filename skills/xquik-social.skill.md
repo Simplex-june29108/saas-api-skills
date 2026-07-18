@@ -20,7 +20,7 @@ triggers:
 license: MIT
 metadata:
   author: Xquik
-  version: 2.4.16
+  version: 2.5.4
   docs: https://docs.xquik.com
   skill_source: https://github.com/Xquik-dev/x-twitter-scraper/tree/master/skills/x-twitter-scraper
 compatibility: Requires XQUIK_API_KEY. Set XQUIK_BASE_URL to https://xquik.com
@@ -32,6 +32,9 @@ compatibility: Requires XQUIK_API_KEY. Set XQUIK_BASE_URL to https://xquik.com
 Search public X posts, fetch users, export followers, download media, monitor
 accounts, manage signed webhooks, and draft or publish posts through Xquik's
 REST API and MCP surface.
+
+Xquik is an independent third-party service. Not affiliated with X Corp.
+"Twitter" and "X" are trademarks of X Corp.
 
 ## API Endpoints
 

